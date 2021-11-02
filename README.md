@@ -2,6 +2,12 @@ NETFLIX CLONE App with fully functional stripe checkout page alongside subscript
 
 ![image](https://user-images.githubusercontent.com/55191791/139925882-649f5911-a148-435c-b18c-52d0230d518b.png)
 
+![image](https://user-images.githubusercontent.com/55191791/139926008-08ef6252-1ac1-441f-b565-038ec31ef514.png)
+
+![image](https://user-images.githubusercontent.com/55191791/139926539-b18d00d8-e03d-473d-b30d-45a1c0dbea02.png)
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
